@@ -1,0 +1,73 @@
+kramdown:
+  header_offset: 2
+
+navigation:
+  - text: "Welcome!"
+    url: "index.html"
+    section: "Welcome!"
+    display: true
+
+  - text: "About"
+    url: "index.html"
+    section: "About"
+    display: true
+    sublinks:
+      - title: Why Autoware
+        url: "index.html"
+      - title: Organization Overview
+        url: "index.html"
+      - title: Members
+        url: "index.html"
+
+  - text: "Getting Started"
+    url: "index.html"
+    section: "Getting Started"
+    display: true
+    sublinks:
+      - title: Autoware Overview
+        url: "index.html"
+      - title: Open AD Kit
+        url: "index.html"
+      - title: Centers of Excellence
+        url: "index.html"
+      - title: Ecosystem
+        url: "index.html"
+      - title: Case Studies
+        url: "index.html"
+
+  - text: "Join"
+    url: "index.html"
+    section: "Join"
+    display: true
+    sublinks:
+      - title: Become a Member
+        url: "index.html"
+      - title: Join Work Group
+        url: "index.html"
+      - title: Autoware Challenge 2023
+        url: "index.html"
+
+  - text: "Resources"
+    url: "index.html"
+    section: "Resources"
+    display: true
+    sublinks:
+      - title: Why Autoware
+        url: "Newsroom"
+      - title: Organization Overview
+        url: "Media Kit"
+
+  - text: "Resources"
+    url: "index.html"
+    sublinks:
+      - title: Why Autoware
+        url: "Newsroom"
+      - title: Organization Overview
+        url: "Media Kit"
+    section: "Resources"
+    display: true
+
+  - text: "Events"
+    url: "index.html"
+    section: "Events"
+    display: true
